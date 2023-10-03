@@ -1,2 +1,2 @@
-#!/bin/bush
+#!/bin/bash:wq
 ln -s /bin/ls __ls__
