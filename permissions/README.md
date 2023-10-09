@@ -1,1 +1,2 @@
-su betty for switching the user:wq
+su betty for switching the user:w
+gduyhnojsfdbufdvhndiovkddnviofjh
